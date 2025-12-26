@@ -5,3 +5,4 @@
 /tmp/*
 *.sql
 .DS_Store
+.env.example
